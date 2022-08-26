@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jack\git2\jchess_engine\build\CMakeFiles\c76fa0aa7a81b652dc4625aa24a9c427\do_run.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jack\git2\jchess_engine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\jack\git2\jchess_engine\build\CMakeFiles\do_run" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7B74D110-6D95-31DA-AF21-BDB2879C9D18}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
