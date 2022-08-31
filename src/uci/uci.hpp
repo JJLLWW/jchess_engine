@@ -6,7 +6,6 @@
 #include <cstdint>
 
 namespace uci {
-    std::string start_fen;
     class UciException : public std::exception {
         private:
             std::string msg;
@@ -66,4 +65,7 @@ namespace uci {
 
     bool Execute(Command& cmd);
     void ExecuteUCI();
+
+    std::string get_start_fen();
+    bool validate_fen(std::vector<std::string> words, int i);
 } // namespace uci

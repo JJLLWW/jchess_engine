@@ -35,6 +35,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("C:/Users/jack/git2/jchess_engine/build/src/cmake_install.cmake")
+  include("C:/Users/jack/git2/jchess_engine/build/test/cmake_install.cmake")
 
 endif()
 

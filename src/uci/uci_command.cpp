@@ -88,10 +88,13 @@ namespace uci {
             throw UciException("UCI: position called with no argument (expects 'startpos' or a FEN string)");
         }
         if(words[1] == "startpos") {
-            pd.fen = start_fen;
+            pd.fen = get_start_fen();
             return pd;
         }
-        // validate the FEN
+        if(!validate_fen(words, 1)) {
+            throw UciException("UCI: position FEN string is invalid.");
+        }
+        // store the FEN in the PosData.
         // see if any 'moves' have been specified and validate them.
         return pd;
     }

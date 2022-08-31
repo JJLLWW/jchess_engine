@@ -8,6 +8,9 @@
       <FullPath>C:\Users\jack\git2\jchess_engine\build\src\Debug\jengine.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
+      <FullPath>C:\Users\jack\git2\jchess_engine\build\test\Debug\tests.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
       <FullPath>C:\Users\jack\git2\jchess_engine\build\x64\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>

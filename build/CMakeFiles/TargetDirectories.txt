@@ -1,3 +1,11 @@
+C:/Users/jack/git2/jchess_engine/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/jack/git2/jchess_engine/build/CMakeFiles/Experimental.dir
+C:/Users/jack/git2/jchess_engine/build/CMakeFiles/Continuous.dir
+C:/Users/jack/git2/jchess_engine/build/CMakeFiles/Nightly.dir
+C:/Users/jack/git2/jchess_engine/build/CMakeFiles/RUN_TESTS.dir
 C:/Users/jack/git2/jchess_engine/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/jack/git2/jchess_engine/build/CMakeFiles/ZERO_CHECK.dir
 C:/Users/jack/git2/jchess_engine/build/src/CMakeFiles/jengine.dir
+C:/Users/jack/git2/jchess_engine/build/src/CMakeFiles/RUN_TESTS.dir
+C:/Users/jack/git2/jchess_engine/build/test/CMakeFiles/tests.dir
+C:/Users/jack/git2/jchess_engine/build/test/CMakeFiles/RUN_TESTS.dir
